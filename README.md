@@ -30,3 +30,4 @@
 | ------------- | :-------------: | ------------- |
 | <img src="https://github.com/yeonsu0-0/WEATHER-WEAR/assets/107970815/41f78829-ee61-4007-b019-77d10ffc1410" width="100" height="100"/>  | [김연수](https://github.com/yeonsu0-0) | 배움은 겸손하게! 아는 것과 모르는 것을 분명히 하자|
 | <img src="https://github.com/GDSC-SWU/2023-iOS-Tech-Interview-Study/assets/87655596/738a4d5b-9775-4a8a-9b7d-7bebce2af06c" width="100" height="100"/>  | [목정아](https://github.com/AlwaysFighting?tab=repositories) | 꼼꼼하고 끈기있게 열심히 잘 하자 |
+| <img src="https://github.com/GDSC-SWU/2023-iOS-Tech-Interview-Study/assets/87401351/c1faf308-c6db-4abd-993e-6e9957ded8a0" width="100" height="100"/>  | [성나연](https://github.com/angryeon7) | 기본부터 탄탄하게 완벽하게 내껄로 만들자 |
